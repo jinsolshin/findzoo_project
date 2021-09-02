@@ -6,8 +6,4 @@
 	<select id="findAll" resultType="memberVO">
 		select * from member
 	</select>
-	
-	<insert id="">
-		
-	</insert>
 </mapper>
